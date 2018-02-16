@@ -2,9 +2,8 @@
 /*
 Plugin Name: GNews Addon ( Visual Composer Elements )
 Description: Visual Composer Elements Addon for Janah Wordpress Theme
-Author: XThemeApollo
-Version: 1.2.2
-Author URI: http://xthemeapollo.com
+Author: Gold Miner
+Version: 1.0.0
 */
 
 // File Security Check

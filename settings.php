@@ -22,7 +22,6 @@ define( 'GNEWS_VC_PLUGIN', plugin_dir_path( __FILE__ ) );
 // plugin info
 define( 'GNEWS_VC_PLUGIN_ID', 'gnews-vc' );
 define( 'GNEWS_VC_PLUGIN_PARENT_THEME', 'wp-theme-jannah' );
-define( 'GNEWS_VC_PLUGIN_REMOTE', GNEWS_VC_PLUGIN_API_SERVER );
 
 define( 'GNEWS_VC_PLUGIN_SLUG', plugin_basename( GNEWS_VC_PLUGIN . GNEWS_VC_PLUGIN_ID . '.php' ) );
 
